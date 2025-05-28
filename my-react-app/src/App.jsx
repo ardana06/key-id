@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 import Video from './Video.jsx'
-import {VIDEOS} from './videos'
+import { VIDEOS } from './videos'
 
 function App() {
 
